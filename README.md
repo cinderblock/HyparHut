@@ -11,7 +11,7 @@ HyparHuts were originally inspired by the good work from the Hexayurt community 
 At the core, HyparHuts are based off of the same rigid insulation foam that is used to make most Hexayurts.
 The main difference is the absence of any tape to form the hinges.
 Instead, we’ve developed techniques using other materials to augment the bare rigid insulation foam, making the structures far more durable.
-We’ve also developed a new general shape that enables the entire structed to be hinged together enabling nearly instant setup.
+We’ve also developed a new general shape that enables the entire structure to be hinged together enabling nearly instant setup.
 
 ## House Wrap
 
@@ -55,7 +55,7 @@ This provides nice positive lateral engagement between the frame and structure.
 ## Roof
 
 To tie the whole structure together, we’ve designed a roof tarp that fits snugly over the entire structure.
-The tarp includes bungies to hold the tarp to the frame simplifying setup and tensioning the entire roof to help prevent fluttering in the wind.
+The tarp includes bungees to hold the tarp to the frame simplifying setup and tensioning the entire roof to help prevent fluttering in the wind.
 The tarp also provides the main waterproofing layer and holds the walls in which holds the roof panels in place.
 A nice added benefit is that there are no guy wires, removing any tripping hazards.
 
@@ -75,10 +75,10 @@ While the HyparHut building techniques are fully applicable to other shapes, we�
 ## Folding Pattern
 
 The preferred folding pattern is similar to an accordion.
-Because of this, picking where the side walls fold is not the seemingly obvious midpoint, but actually slightly off center so that when folded flat, all of the edges meet correcty.
+Because of this, picking where the side walls fold is not the seemingly obvious midpoint, but actually slightly off center so that when folded flat, all of the edges meet correctly.
 
 It is also possible to use a "zig-zag" pattern and reversing the hinges to make the walls "unwrap".
-This makes the setup take a little longer but enables different packing configurations that might be desierable.
+This makes the setup take a little longer but enables different packing configurations that might be desirable.
 
 ## Purchase List
 
