@@ -92,6 +92,12 @@ This is an old list. The prices and quantities are not all accurate.
  - Roof tarp - $11-$20
  - Conservative Grand Total: $582
 
+## Versions
+
+ - V1 - Shown at Maker Faire. Been to the playa 4 years running.
+ - V2 - "zig-zag" folded version. (Missing design files :( )
+ - V3 - The current iteration. A little taller. Thinner when folded.
+
 ## Files
 
  - [Layout.sldprt](Layout.sldprt) - The most recent itteration. Single part, all sketches. Parameterized to help visualize and change values.
