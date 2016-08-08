@@ -101,4 +101,4 @@ This is an old list. The prices and quantities are not all accurate.
 ## Files
 
  - [Layout.sldprt](Layout.sldprt) - Sketches describing cut patterns. Parameterized to help visualize and change values.
- - [Part2.SLDPRT](Part2.SLDPRT) - Simple sketch to calculate correct length to cut edging.
+ - [Edge.sldprt](Edge.sldprt) - Simple sketch to calculate correct length to cut edging.
