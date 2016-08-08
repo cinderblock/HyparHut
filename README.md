@@ -1,4 +1,4 @@
-# HyparHuts - Temporary Structures
+# HyparHuts - Temporary Structures - V1 Branch
 
 ![Image of HyparHut](Layout.JPG)
 
@@ -100,7 +100,4 @@ This is an old list. The prices and quantities are not all accurate.
 
 ## Files
 
- - [Layout.sldprt](Layout.sldprt) - The most recent itteration. Single part, all sketches. Parameterized to help visualize and change values.
- - [Layout.sldasm](Layout.sldasm) - Old generation assembly of hut and roof tarp.
- - [Part2.SLDPRT](Part2.SLDPRT) - Simple sketch to calculate correct length to cut edging.
-
+ - [Layout.sldasm](Layout.sldasm) - Assembly of hut and roof tarp.
