@@ -1,5 +1,7 @@
 # HyparHuts - Temporary Structures
 
+![Image of HyparHut](Layout.JPG)
+
 HyparHuts are temporary shelters for most environments that setup in under 5 minutes.
 They are infinitely customizable and fold flat for storage and transport.
 HyparHuts were originally inspired by the good work from the Hexayurt community but created specifically to address many problems that have emerged.
